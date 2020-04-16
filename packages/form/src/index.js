@@ -7,7 +7,7 @@ export default function Form() {
         <form>
             <Input placeholder="Form placeholder" />
             <br/>
-            <Button>Submit Form</Button>
+            <Button>Submit Form!</Button>
         </form>
     )
 }
