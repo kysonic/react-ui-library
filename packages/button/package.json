@@ -5,6 +5,7 @@
   "module": "src/index.js",
   "private": false,
   "dependencies": {
+    "@react-ui-library/input": "^0.2.0",
     "react": "16.8.5",
     "react-dom": "16.8.5",
     "styled-components": "4.1.3"

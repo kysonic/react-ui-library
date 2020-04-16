@@ -1,6 +1,6 @@
 {
   "name": "react-ui-library",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
@@ -10,7 +10,8 @@
     "dev": "start-storybook -p 5555",
     "coverage": "jest --coverage",
     "unit": "jest",
-    "publish": "lerna publish --conventional-commits --yes"
+    "publish": "lerna publish --conventional-commits --yes",
+    "version": "lerna version --conventional-commits --yes"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
