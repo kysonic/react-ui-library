@@ -1,6 +1,6 @@
 {
   "name": "react-ui-library",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
