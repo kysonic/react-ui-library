@@ -1,11 +1,11 @@
 {
   "name": "@react-ui-library/input",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "main": "lib/index.js",
   "module": "src/index.js",
   "private": false,
   "dependencies": {
-    "@react-ui-library/button": "^0.3.0",
+    "@react-ui-library/button": "^0.4.0",
     "react": "16.8.5",
     "react-dom": "16.8.5",
     "styled-components": "4.1.3"

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/kysonic/react-ui-library/compare/@react-ui-library/input@0.2.0...@react-ui-library/input@0.4.0) (2020-04-16)
+
+
+### Features
+
+* Form. Released ([12126d0](https://github.com/kysonic/react-ui-library/commit/12126d0482e83c53f5814e44f708c1b68cb522ac))
+* Form. Update package ([3bcfdf6](https://github.com/kysonic/react-ui-library/commit/3bcfdf64941e605855df538283f48df63ce38aa9))
+
+
+
+
+
 # [0.3.0](https://github.com/kysonic/react-ui-library/compare/@react-ui-library/input@0.2.0...@react-ui-library/input@0.3.0) (2020-04-16)
 
 
